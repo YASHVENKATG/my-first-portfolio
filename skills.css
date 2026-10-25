@@ -1,0 +1,40 @@
+body{
+  font-family: "Shadows Into Light",cursive;
+  font-style: normal;
+  font-weight: 400;
+}
+.skills{
+margin-left: 10px;  
+display:grid;
+grid-template-columns: 200px ;
+}
+img{
+  width: 100%;
+
+}
+button{
+  border-radius: 50px;
+  border-style: none;
+  color: white;
+  font-size: 20px;
+  padding:10px  ;
+ margin-left: 35%; 
+ font-weight: bold;
+}
+.text{
+  font-size: 20px;
+}
+.skill-set{
+  display: flex;
+  flex-direction: row;
+
+}
+p{
+  padding: 5px;
+}
+.title{
+  font-weight: bolder;
+  font-size: 50px;
+  color: chocolate;
+  text-align: center;
+}

@@ -1,0 +1,30 @@
+body{
+  background-color: aqua;
+  font-family: "Shadows Into Light",cursive;
+  font-style: normal;
+  font-weight: 400;
+  padding: 1px 5px;
+}
+.introduction{
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  row-gap: 10px;
+}
+.links{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.name{
+  font-size: 70px;
+  color: white;
+  font-weight: bold;
+}
+.description{
+  font-size: larger;
+}
+.direction{
+  font-size: 50px;
+}
